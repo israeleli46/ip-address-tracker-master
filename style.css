@@ -1,0 +1,35 @@
+.first{
+    text-align: center;
+    background-image: url('/images/pattern-bg-desktop.png');
+    height: 175px;
+    padding-top: 10px;
+}
+#search{
+    border-top-left-radius: 9px;
+    border-bottom-left-radius: 9px;
+    font-size: 18px;
+    size: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 8px;
+    margin-left: 20px;
+}
+
+#submit{
+    border-top-right-radius: 9px;
+    border-bottom-right-radius: 9px;
+     font-size: 18px;
+     margin-right:20px;
+     background-color: black;
+color: white;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 15px;
+padding-left: 8px;;
+}
+h3{
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
